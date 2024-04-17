@@ -1,0 +1,30 @@
+samsung tv,23,2000.00
+samsung laptop,18,1500.00
+IPhone13,1,4000.00
+MacBook Pro 16-inch,20,5000.00
+iPad Air,60,4000.00
+Samsung Galaxy Watch 4,25,1000.00
+Kindle Paperwhite,10,800.00
+Apple AirPods Pro,15,1400.00
+Sony WH-1000XM4 Noise-Canceling Headphones,15,2000.00
+GoPro HERO10,15,900.00
+DJI Mavic Air 2,15,700.00
+Samsung QN90A Neo QLED 4K Smart TV,15,7000.00
+JBL Flip 5 Bluetooth Speaker,15,400.00
+Sony PlayStation 5,15,2400.00
+Oculus Quest 2 VR Headset,15,6000.00
+Amazon Echo Dot,15,1400.00
+Canon EOS R5,15,5000.00
+MakerBot Replicator+ 3D Printer,15,10000.00
+Western Digital My Passport External Hard Drive,15,500.00
+Samsung 970 EVO Plus SSD,15,2500.00
+Wacom Intuos Pro,15,1400.00
+Anker PowerCore 20100mAh Portable Charger,15,1400.00
+Fitbit Charge 4,15,1400.00
+Netgear Nighthawk AX12,15,3000.00
+Nest Learning Thermostat,15,1400.00
+Segway Ninebot ES2 Electric Scooter,15,3500.00
+Dell UltraSharp U2720Q 4K Monitor,15,1400.00
+Logitech G502 Lightspeed Wireless Gaming Mouse,15,600.00
+Corsair K95 RGB Platinum Mechanical Keyboard,15,1000.00
+Logitech Harmony Elite Remote Control,10,2000.00

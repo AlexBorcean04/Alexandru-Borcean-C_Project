@@ -1,0 +1,4 @@
+4,samsung tv,3,6000.00,Sandru ,Darian
+5,samsung laptop,2,3000.00,Vasilescu,Vlad
+6,IPhone13,2,8000.00,Vasilescu,Vlad
+5,samsung tv,2,4000.00,Dragomir,Andrei
